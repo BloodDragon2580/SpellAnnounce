@@ -103,7 +103,8 @@ L["Strangulate"] = "activated "
 
 
 ---------------------DemonHunter Start---------------------
-L["Darkness"] = "activated "
+L["Darkness"] = "Aktiviert "
+L["Metamorphose"] = "Aktiviert "
 L["Sigil_of_Silence"] = "activated "
 L["Sigil_of_Misery"] = "activated "
 L["Fel_Eruption"] = "activated "

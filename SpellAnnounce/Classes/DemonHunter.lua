@@ -6,6 +6,7 @@ local function OnEvent(self, event, ...)
     IDsOfSpellToAnnounce  =
 	{
 		Darkness = {196718},  -- https://www.wowhead.com/spell=196718/darkness
+		Metamorphose = {191427},
 		Sigil_of_Silence = {202137},  -- https://www.wowhead.com/spell=202137/sigil-of-silence
 		Sigil_of_Misery = {207684},  -- https://www.wowhead.com/spell=207684/sigil-of-misery
 		Fel_Eruption = {211881},  -- https://www.wowhead.com/spell=211881/fel-eruption
@@ -17,6 +18,7 @@ local function OnEvent(self, event, ...)
 	SentencesToAnnounce =
 	{
 		Darkness = {L["Darkness"]},
+		Metamorphose = {L["Metamorphose"]},
 		Sigil_of_Silence = {L["Sigil_of_Silence"]},
 		Sigil_of_Misery = {L["Sigil_of_Misery"]},
 		Fel_Eruption = {L["Fel_Eruption"]},
