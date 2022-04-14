@@ -13,6 +13,12 @@ local L = me.L
 
 
 
+------------------------Says Start------------------------
+L["says: "] = "sagt: "
+-------------------------Says End-------------------------
+
+
+
 ------------------------Buffs Start------------------------
 L["Buff"] = "Aktiviert "
 -------------------------Buffs End-------------------------
@@ -26,7 +32,7 @@ L["Drums"] = "Aktiviert die "
 
 
 ----------------------Interrupt Start----------------------
-L["interrupted"] = "Unterbricht mit  "
+L["interrupted"] = "Nutzt"
 -----------------------Interrupt End-----------------------
 
 
@@ -104,10 +110,9 @@ L["Strangulate"] = "Aktiviert "
 
 ---------------------DemonHunter Start---------------------
 L["Darkness"] = "Aktiviert "
-L["Metamorphose"] = "Aktiviert "
 L["Sigil_of_Silence"] = "Aktiviert "
 L["Sigil_of_Misery"] = "Aktiviert "
-L["Fel_Eruption"] = "Aktiviert "
+L["Fel_Eruption"] = "Benutzt"
 L["Illidans_Grasp"] = "Aktiviert "
 L["Demonic_Trample"] = "Aktiviert "
 ----------------------DemonHunter End----------------------

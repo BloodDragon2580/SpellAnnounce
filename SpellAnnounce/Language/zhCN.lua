@@ -13,8 +13,14 @@ local L = me.L
 
 
 
+------------------------Says Start------------------------
+L["says: "] = "says: "
+-------------------------Says End-------------------------
+
+
+
 ------------------------Buffs Start------------------------
-L["Buff"] = "activated "
+L["Buff"] = "Aktiviert "
 -------------------------Buffs End-------------------------
 
 
@@ -103,8 +109,7 @@ L["Strangulate"] = "activated "
 
 
 ---------------------DemonHunter Start---------------------
-L["Darkness"] = "Aktiviert "
-L["Metamorphose"] = "Aktiviert "
+L["Darkness"] = "activated "
 L["Sigil_of_Silence"] = "activated "
 L["Sigil_of_Misery"] = "activated "
 L["Fel_Eruption"] = "activated "

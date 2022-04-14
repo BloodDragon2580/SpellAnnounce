@@ -46,7 +46,7 @@ local function OnEvent(self, event, ...)
 						Message = (SentenceForSpellCastedByPlayer .. " " ..GetSpellLink(spellID))
 						SendChatMessage(Message, "YELL")
 					else
-						Message = ("says: " ..SentenceForSpellCastedByPlayer .. " " ..GetSpellLink(spellID))
+						Message = (L["says: "] ..SentenceForSpellCastedByPlayer .. " " ..GetSpellLink(spellID))
 						SendChatMessage(Message, "EMOTE")
 					end
 				end
