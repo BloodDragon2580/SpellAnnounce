@@ -9,6 +9,7 @@ local function OnEvent(self, event, ...)
 		Psychic_Scream = {8122},  -- https://www.wowhead.com/spell=8122/psychic-scream
 		Holy_Word = {88625},  -- https://www.wowhead.com/spell=88625/holy-word-chastise
 		Mind_Control = {605},  -- https://www.wowhead.com/spell=605/mind-control
+		Power_Word_Barrier = {62618},  -- https://www.wowhead.com/spell=62618/power-word-barrier
 		Silence = {15487},  -- https://www.wowhead.com/spell=15487/silence
 	}
 	
@@ -18,6 +19,7 @@ local function OnEvent(self, event, ...)
 		Psychic_Scream = {L["Psychic_Scream"]},
 		Holy_Word = {L["Holy_Word"]},
 		Mind_Control = {L["Mind_Control"]},
+		Power_Word_Barrier = {L["Power_Word_Barrier"]},
 		Silence = {L["interrupted"]},
 	}
 	

@@ -171,6 +171,7 @@ L["Mind_Bomb"] = "Aktiviert "
 L["Psychic_Scream"] = "Aktiviert "
 L["Holy_Word"] = "Aktiviert "
 L["Mind_Control"] = "Aktiviert "
+L["Power_Word_Barrier"] = "Kommt in die Kuppel"
 -------------------------Priest End------------------------
 
 
