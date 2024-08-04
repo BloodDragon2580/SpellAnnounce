@@ -1,8 +1,8 @@
-## Interface: 100207
+## Interface: 110002
 ## Title:|cffd6266cSpellAnnounce|r
 ## Notes: Postet euren Spell als nachricht in den Chat.
 ## Author: BloodDragon2580
-## Version: 2.9
+## Version: 3.1
 ## IconTexture: Interface\AddOns\SpellAnnounce\Media\Texture\logo
 
 # Libraries
