@@ -2,7 +2,7 @@
 ## Title:|cffd6266cSpellAnnounce|r
 ## Notes: Postet euren Spell als nachricht in den Chat.
 ## Author: BloodDragon2580
-## Version: 9.9
+## Version: 10.0
 ## IconTexture: Interface\AddOns\SpellAnnounce\Media\Texture\logo
 
 # Libraries
